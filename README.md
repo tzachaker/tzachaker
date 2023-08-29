@@ -21,7 +21,7 @@ I find immense satisfaction in deciphering intricate challenges through coding, 
 - **Architectural Understanding:** Familiar with the Model-View-Controller (MVC) architecture for building robust applications.
 - **Networking Acumen:** Knowledgeable about Computer Networks and their role in modern applications.
 - **Testing Expertise:** Proficient in testing methodologies, including Junit, Test Automation, and Test-driven development (TDD).
-- 
+  
 ## Specialization
 
 My primary specialization lies in designing and implementing software solutions that leverage a diverse skill set. I thrive in both individual coding projects and collaborative team environments. With a strong foundation in programming and a passion for problem-solving, I'm excited to contribute to projects that push the boundaries of innovation.
